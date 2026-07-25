@@ -4,22 +4,17 @@ version: 1.0.0
 repository: https://github.com/AtomiCloud/diene.dart_result
 issue_tracker: https://github.com/AtomiCloud/diene.dart_result/issues
 homepage: https://github.com/AtomiCloud/diene.dart_result
-
 topics:
   - result
   - option
   - error-handling
   - functional-programming
   - railway-oriented-programming
-
 resolution: workspace
-
 environment:
   sdk: '>=3.12.0 <4.0.0'
-
 dependencies:
   diene_problems: ^0.1.0
-
 dev_dependencies:
   coverage: ^1.15.1
   crypto: ^3.0.6
